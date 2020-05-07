@@ -1,0 +1,13 @@
+E:\ฝึกงาน\Assign\Phon\Phon\bin\Debug\netcoreapp3.1\Phon.exe
+E:\ฝึกงาน\Assign\Phon\Phon\bin\Debug\netcoreapp3.1\Phon.deps.json
+E:\ฝึกงาน\Assign\Phon\Phon\bin\Debug\netcoreapp3.1\Phon.runtimeconfig.json
+E:\ฝึกงาน\Assign\Phon\Phon\bin\Debug\netcoreapp3.1\Phon.runtimeconfig.dev.json
+E:\ฝึกงาน\Assign\Phon\Phon\bin\Debug\netcoreapp3.1\Phon.dll
+E:\ฝึกงาน\Assign\Phon\Phon\bin\Debug\netcoreapp3.1\Phon.pdb
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.csprojAssemblyReference.cache
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.csproj.CoreCompileInputs.cache
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.AssemblyInfoInputs.cache
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.AssemblyInfo.cs
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.dll
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.pdb
+E:\ฝึกงาน\Assign\Phon\Phon\obj\Debug\netcoreapp3.1\Phon.genruntimeconfig.cache
